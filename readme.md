@@ -1,4 +1,4 @@
-# AUTOMATE GENERATION OF STAFF PHOTOS FOR SIGNAGE and other on site display
+# AUTOMATE GENERATION OF STAFF PHOTOS FOR SIGNAGE and other on-site display
 
 To be used for new employees in order to process their photos for signage or web display.
 
@@ -10,4 +10,4 @@ It processes all files in the the working directory. It processes all files in t
 
 ## Needs Work
 
-The stripe size is constant disregarding dimensions of the photo. Needs to be rewritten so that the stripe size is relative to the height width ration.
+The stripe size is constant disregarding dimensions of the photo. Needs to be rewritten so that the stripe size is relative to the height width ratio.
