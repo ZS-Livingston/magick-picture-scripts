@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Converts filenames to utf-8 nfc normalized coding
+convmv -r -f utf-8 -t utf-8 --nfc . --notest
+
 # Displays a font warning message
 echo The script uses system installed font
 
